@@ -3,7 +3,7 @@ pragma solidity 0.8.8; //Specify the version of Solidity .Important to mention t
 
 contract SimpleStorage{
    
-  
+    //Time 3.0
     struct People{
         string name;
         uint favNumber;
